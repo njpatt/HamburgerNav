@@ -1,2 +1,3 @@
-# WebDesignFeatures
-Small features that I can implement in future projects.
+# HamburgerNav
+Hamburger Navbar (☰) that opens horizontally to display links.
+
